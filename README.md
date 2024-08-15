@@ -6,7 +6,7 @@
 #optimism #cardona #zircuit #linea #sepolia
 
 # Demo
-live: https://unstoppable-models.streamlit.app/
+live: https://unstoppable-ai.why-nft.com/ or https://unstoppable-models.streamlit.app/
 
 video: https://youtu.be/751XpV0xqEo
 
@@ -65,7 +65,7 @@ Fraud-Proofer - Independently validates selected steps within a specific timefra
 
 # Realisation
 ## Scheme
-![Overview Scheme](docs/scheme.png)
+![Overview Scheme](docs/scheme.jpg)
 
 ## Off-chain parts
 ### Frontend
